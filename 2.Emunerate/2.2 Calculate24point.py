@@ -3,6 +3,9 @@ Input 4 numbers
 calculate whether they can get 24
 if can print the calculation process
 if can't print( not feasible)
+This version doesn't consider law of commutation. It may give several calculate methods though they are the same at all.
+eg.
+(1+2+3)*4=24 4*(1+2+3)=24
 '''
 
 
